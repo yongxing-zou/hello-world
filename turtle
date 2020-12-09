@@ -1,4 +1,5 @@
-import turtle
+```Python
+    import turtle
     
     turtle.pensize(4)
     turtle.pencolor('red')
@@ -12,3 +13,4 @@ import turtle
     turtle.forward(100)
     
     turtle.mainloop()
+    ```
